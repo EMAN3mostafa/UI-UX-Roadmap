@@ -34,6 +34,17 @@ UX (User Experience): It's about designing the overall experience users have whi
 </li>
 <li>English Tutorial (Recommended) : <a href="https://learnux.io/course/figma" rel="nofollow">Learnux Playlist</a></li>
 </ul>
+<h2 tabindex="-1" class="heading-element" dir="auto"><strong>Crash Course</strong></h2>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://youtu.be/EHI78SvEob8?si=txZuBAFlRyL9IHU7" rel="nofollow">Full UI/UX Course</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://youtu.be/-8hP9M-EstY?si=yfGvdlURYhYkwOcz" rel="nofollow">Figma Crash Course 2022 Anas Rafaat</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://youtu.be/cTUD_vCrY7M?si=rfe0FtS99SXbdNhA" rel="nofollow">Interactive UI/UX Crash Course</a></p>
+</li>
 <h2 tabindex="-1" class="heading-element" dir="auto"><strong>Basics of UI Design</strong></h2>
 <p dir="auto"><strong>Color inspiration</strong></p>
 <ul dir="auto">
