@@ -65,7 +65,6 @@ UX (User Experience): It's about designing the overall experience users have whi
 </li>
 </ul>
 <p dir="auto"><strong>Photos</strong></p>
-  <li><a href="https://uxcel.com/blog/the-basic-types-of-images-in-ui-design" rel="nofollow">Types of images in UI design</a></li>
 <ul dir="auto">
 <li><a href="https://www.freepik.com/" rel="nofollow">Freepik</a></li>
 <li><a href="https://www.pexels.com/" rel="nofollow">Pexels</a></li>
