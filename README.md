@@ -1,4 +1,4 @@
-# UI-UX-Roadmap..
+# UI-UX-Roadmap
 <img src="https://ibnsinatrainingacademy.com/wp-content/uploads/2024/08/UI-UX-Vector-Illustration.jpg" alt="Up On The Wall_ How Working Walls Unlock Creative Insight — Smashing Magazine" style="max-width: 100%;">
 This repository offers a collection of free courses and tutorials to help you learn UI/UX design. I’ve gathered some of the best free resources. # UI-UX-Roadmap A guide on how to get started in the UI/UX field. This document is for those interested in learning UI/UX design.
 <h2 tabindex="-1" class="heading-element" dir="auto"><strong>What is UI/UX ?</strong></h2>
