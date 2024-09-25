@@ -122,7 +122,8 @@ You can search for your idea and start to build your own design
 <details>
 <summary>Videos</summary>
   1--> (<a href="https://youtu.be/0nAXnnctNrM?si=JTHoYMxZIj677oxc" rel="nofollow">ux design process steps in Arabic</a>) 
-<p dir="auto">2--> (<a href="https://youtu.be/rYH7AErVd7w?si=ACWLnQoqVQewa-ms" rel="nofollow">ux design process steps in English</a>)</p>
+  2--> (<a href="https://youtu.be/EHI78SvEob8?si=4uqyGabm7eylTVH2" rel="nofollow">ux design process steps in Arabic2</a>) 
+<p dir="auto">3--> (<a href="https://youtu.be/rYH7AErVd7w?si=ACWLnQoqVQewa-ms" rel="nofollow">ux design process steps in English</a>)</p>
 </details>
 <h2 tabindex="-1" class="heading-element" dir="auto"><strong>Design Thinking</strong></h2>
 <ul dir="auto">
